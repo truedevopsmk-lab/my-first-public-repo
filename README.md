@@ -1,4 +1,5 @@
 # Example Repository
 
 This is a First Sample Repo created by MK! ;)
-Testing..
+
+MK's L A N D I N G   P A G E
