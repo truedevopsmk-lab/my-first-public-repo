@@ -1,3 +1,3 @@
 # Example Repository
 
-This is a Sample Repo
+This is a First Sample Repo created by MK!
