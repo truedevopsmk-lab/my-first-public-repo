@@ -1,2 +1,7 @@
 *.log
+<<<<<<< HEAD
 *.html
+=======
+*.html
+TEST.*
+>>>>>>> new-feature
